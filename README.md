@@ -256,3 +256,10 @@ GitHub: [@chaitra519](https://github.com/chaitra519)
 ## 📄 License
 
 A license has not yet been specified. Add an appropriate license file if you intend to publish the project for reuse by others.
+
+
+## 🎥 Project Presentation Video
+
+Watch the presentation video of the **Blockchain-Based Student Attendance Management System**.
+
+▶️ [**Watch Project Presentation Video**](https://drive.google.com/file/d/1P7Rv95TwbOnVVwHZI8PA9cTryjhLRgVK/view?usp=sharing)
